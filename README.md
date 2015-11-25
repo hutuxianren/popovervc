@@ -1,0 +1,9 @@
+# popovervc
+苹果在iOS8中对UIViewController做了类扩展
+
+也就是说popoverPresentationController是UIViewController的属性
+
+modalPresentationStyle是UIViewController成员变量
+
+UIPopoverPresentationController继承自UIPresentationController, UIPresentationController又继承自NSObject
+
